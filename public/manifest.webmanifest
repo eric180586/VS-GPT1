@@ -1,0 +1,9 @@
+{
+  "name": "Villa Sun Team",
+  "short_name": "VS Team",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": []
+}
